@@ -1,2 +1,2 @@
-# algo-template
+# algo-templates
 Learning Algorithms
